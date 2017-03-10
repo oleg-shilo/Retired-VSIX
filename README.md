@@ -9,6 +9,9 @@ This repository is an attempt to soothe the pain by giving a shelter for the old
 #### LineMan
 [latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.LineMan) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/LineMan)
 
+#### PyMap
+[latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.PyMap) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/PyMap)
+
 #### WixSharp Project Templates
 [latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/WixSharp%20Project%20Templates)
 
