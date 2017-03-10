@@ -5,3 +5,6 @@ Visual Studio 2017 has changed the hosting model for the extensions packages. Th
 The problem could be partially addressed by allowing Visual Studio users to access older releases of the extensions when required. However it is problematic as Microsoft Visual Studio Market place allows access only to the latest release of a package. 
 
 This repository is an attempt to soothe the pain by giving a shelter for the older versions of the active Visual Studio extensions. 
+
+LineMan: (latest)[https://marketplace.visualstudio.com/items?itemName=OlegShilo.LineMan]  (lagacy)[https://github.com/oleg-shilo/Retired-VSIX/tree/master/LineMan]
+WixSharp Project Templates: (latest)[https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates]
