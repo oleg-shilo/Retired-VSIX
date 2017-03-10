@@ -6,6 +6,11 @@ The problem could be partially addressed by allowing Visual Studio users to acce
 
 This repository is an attempt to soothe the pain by giving a shelter for the older versions of the active Visual Studio extensions. 
 
-LineMan: [latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.LineMan) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/LineMan)
+#### LineMan
+[latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.LineMan) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/LineMan)
 
-WixSharp Project Templates: [latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/WixSharp%20Project%20Templates)
+#### WixSharp Project Templates
+[latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/WixSharp%20Project%20Templates)
+
+#### Move Type To File
+[latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/Move%20Type%20To%20File)
