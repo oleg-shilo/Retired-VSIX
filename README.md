@@ -12,6 +12,9 @@ This repository is an attempt to soothe the pain by giving a shelter for the old
 * _**PyMap**_ <br/>
 [latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.PyMap) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/PyMap)
 
+* _**DocPreview**_ <br/>
+[latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.DocPreview) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/DocPreview)
+
 * _**WixSharp Project Templates**_ <br/>
 [latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.WixSharpProjectTemplates) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/WixSharp%20Project%20Templates)
 
