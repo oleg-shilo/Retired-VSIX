@@ -20,3 +20,6 @@ This repository is an attempt to soothe the pain by giving a shelter for the old
 
 * _**Move Type To File**_ <br/>
 [latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.MoveTypeToFile) / [lagacy](https://github.com/oleg-shilo/Retired-VSIX/tree/master/Move%20Type%20To%20File)
+
+* _**PropMan**_ <br/>
+[latest](https://marketplace.visualstudio.com/items?itemName=OlegShilo.PropMan-VS2017) / [lagacy](https://marketplace.visualstudio.com/items?itemName=OlegShilo.PropMan)
